@@ -233,21 +233,61 @@
                             <p id="resultado" class="mt-2 fw-bold text-success"></p>
                         </div>
 
-                        <div class="sidebar-box timeline-box mb-4 p-3 border rounded shadow-sm">
-                            <h4>Línea del Tiempo</h4>
-                            <ul class="list-unstyled">
-                                <li><span class="badge bg-success">1965</span>35439494 </li>
-                                <li><span class="badge bg-success">1966</span> 39372194</li>
-                                <li><span class="badge bg-success">1980</span> 1444702</li>
-                                <li><span class="badge bg-success">1981</span> 1426534</li>
-                                <li><span class="badge bg-success">1994</span> 3205839</li>
-                                <li><span class="badge bg-success">1995</span> 319894</li>
-                                <li><span class="badge bg-success">2002</span> 33968037</li>
-                                <li><span class="badge bg-success">2005</span> 39220886</li>
-                                <li><span class="badge bg-success">2020</span> 4567890</li>
-                                <li><span class="badge bg-success">2026</span> 59858196</li>
-                            </ul>
-                        </div>
+                       <div class="sidebar-box timeline-box mb-4 p-3 border rounded shadow-sm">
+    <h4>Línea del Tiempo - Colombia</h4>
+    <ul class="list-unstyled">
+        <li>
+            <span class="badge bg-success">1965</span> 
+            35439494 
+            <small class="text-muted d-block">Dato adicional: 13.783.877</small>
+        </li>
+        <li>
+            <span class="badge bg-success">1966</span> 
+            39372194 
+            <small class="text-muted d-block">Dato adicional: 14.760.586</small>
+        </li>
+        <li>
+            <span class="badge bg-success">1980</span> 
+            1444702 
+            <small class="text-muted d-block">Dato adicional: 13.464.338</small>
+        </li>
+        <li>
+            <span class="badge bg-success">1981</span> 
+            1426534 
+            <small class="text-muted d-block">Dato adicional: 1.728.923</small>
+        </li>
+        <li>
+            <span class="badge bg-success">1994</span> 
+            3205839 
+            <small class="text-muted d-block">Dato adicional: 18.229.002</small>
+        </li>
+        <li>
+            <span class="badge bg-success">1995</span> 
+            319894 
+            <small class="text-muted d-block">Dato adicional: 19.938.043</small>
+        </li>
+        <li>
+            <span class="badge bg-success">2002</span> 
+            33968037 
+            <small class="text-muted d-block">Dato adicional: 19.912.593</small>
+        </li>
+        <li>
+            <span class="badge bg-success">2005</span> 
+            39220886 
+            <small class="text-muted d-block">Dato adicional: 21.187.904</small>
+        </li>
+        <li>
+            <span class="badge bg-success">2020</span> 
+            4567890 
+            <small class="text-muted d-block">Dato adicional: 24.441.278</small>
+        </li>
+        <li>
+            <span class="badge bg-success">2026</span> 
+            59858196 
+            <small class="text-muted d-block">Dato adicional: 28.208.168</small>
+        </li>
+    </ul>
+</div>
 
                         <aside class="col-md-4">
 
